@@ -41,7 +41,7 @@ if not st.session_state.accepted:
         width:min(90vw, 360px);
   ">
     <h1>Will you be my Valentine? 💌</h1>
-    <p>I made something cute for you… but first answer 🥺</p>
+    <p>Би чамд зориулж нэг хөөрхөн зүйл бэлдсээн… гэхдээ эхлээд хариул 🥺</p>
 
     <div id="btnRow" style="
         display:flex;
