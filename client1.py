@@ -289,7 +289,7 @@ if "wheel_wins" not in st.session_state: st.session_state.wheel_wins=[]
 # =========================
 # COUNTER
 # =========================
-anniversary=date(2025,9,22)
+anniversary=date(2025,9,20)
 days=(date.today()-anniversary).days
 
 c1,c2,c3=st.columns(3)
